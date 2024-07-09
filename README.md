@@ -1,2 +1,2 @@
-# SRF-2024-
-Details for the project developed as the Summer Research Fellow at IISc Bengaluru 
+# SRF-2024
+This repository details research conducted at the **Mechanics and Computation Lab, Dept of Mechanical Engineering, IISc Bengaluru** under the guidance of [**Prof Dr Rangarajan Ramsharan**](https://mecheng.iisc.ac.in/people/ramsharan-rangarajan/). The project explores a novel underwater robot propelled by snap-through buckling in a metallic annulus. Initial efforts focused on optimizing robot design for efficiency **(30% volume, 20% weight reduction)** using Fusion 360. 3D printed hulls and fabricated mounting brackets facilitated assembly. Testing revealed an unexpected "jumping" motion with two annuli. To investigate, the project explored arm length variation and developed a force/torque sensor testing rig.
